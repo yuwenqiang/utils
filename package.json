@@ -1,0 +1,24 @@
+{
+  "name": "yuwenqiang",
+  "version": "1.0.0",
+  "description": "yuwenqiang's utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuwenqiang/utils.git"
+  },
+  "keywords": [
+    "yuwenqiang",
+    "utils",
+    "js"
+  ],
+  "author": "yuwenqiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuwenqiang/utils/issues"
+  },
+  "homepage": "https://github.com/yuwenqiang/utils#readme"
+}
